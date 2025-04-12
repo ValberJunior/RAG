@@ -22,6 +22,7 @@ Para abrir o ambiente / To open the environment
 ```bash
 python -m venv venv
 ```
+<br>
 
 Ativar o ambiente virtual / active virtual environment
 

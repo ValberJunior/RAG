@@ -4,7 +4,7 @@
 ![RAG ](https://github.com/user-attachments/assets/19ba9afc-f4c7-4d20-ac4c-ca17e28f5b59)
 
 
-**Techs:**<br><br>0
+**Techs:**<br><br>
 ✔️ Python<br>
 ✔️ OpenAI<br>
 ✔️ LangChain<br>

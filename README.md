@@ -11,6 +11,10 @@ Techs:
 - ChromaDB<br>
 - Jupyter Notebook<br>
 
+<br><br>
+
+---
+
 Para abrir o ambiente 
 
 ```bash

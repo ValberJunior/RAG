@@ -23,7 +23,7 @@ Para abrir o ambiente / To open the environment
 python -m venv venv
 ```
 
-Ativar o ambiente virtual
+Ativar o ambiente virtual / active virtual environment
 
 ```bash
 source venv/bin/activate

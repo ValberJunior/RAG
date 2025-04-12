@@ -5,11 +5,11 @@
 
 
 Techs:
-- Python<br>
-- OpenAI<br>
-- LangChain<br>
-- ChromaDB<br>
-- Jupyter Notebook<br>
+✔️ Python<br>
+✔️ OpenAI<br>
+✔️ LangChain<br>
+✔️ ChromaDB<br>
+✔️ Jupyter Notebook<br>
 
 <br><br>
 
